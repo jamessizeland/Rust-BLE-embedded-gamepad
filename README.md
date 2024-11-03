@@ -1,3 +1,5 @@
+ARCHIVED and moved to new repo (https://github.com/jamessizeland/microbit-ble-gamepad) as this is no longer a fork of the microbit repo.
+
 # Rust BLE Embedded Gamepad
 
 ## Overview
